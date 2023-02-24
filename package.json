@@ -1,0 +1,19 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sallen14/Samples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sallen14/Samples/issues"
+  },
+  "homepage": "https://github.com/sallen14/Samples#readme"
+}
